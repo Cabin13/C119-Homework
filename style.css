@@ -1,0 +1,22 @@
+#body {
+    background-color: #edecf2;
+}
+
+.button {
+    background-color: #c8c7d7;
+    border-radius: 100px;
+}
+
+#score {
+    float: left;
+    margin-left: 250px;
+}
+
+#timer {
+    float: right;
+    margin-right: 250px;
+}
+
+#whatToDraw {
+    color: #8897aa;
+}
